@@ -1,3 +1,6 @@
+Credits to: Ana
+https://www.youtube.com/watch?v=Rj6PpKdfEnM
+
 # Expo Admob Integration Demo
 App uses Expo sdk 53, react-native-google-mobile-ads. Everything is explained in my article https://www.amarjanica.com/enabling-admob-in-expo-apps/ and youtube https://youtu.be/Rj6PpKdfEnM
 
