@@ -1,7 +1,7 @@
 # Credits to: Ana
 https://www.youtube.com/watch?v=Rj6PpKdfEnM
 
-# Changes
+# Changes by Froredion
 Significantly improved iOS compatibility, especially fixing issues where the rewarded ad couldn’t be closed.
 
 # Expo Admob Integration Demo
